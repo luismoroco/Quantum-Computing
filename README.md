@@ -11,7 +11,7 @@ Translated with www.DeepL.com/Translator (free version)
 
 ## KnapSack Problem
 
-### 1. Definition ? 
+### 1. Definition 
 
 * We will look for the best combination of objects that will give us the highest profit or ultility, without exceeding a maximum weight, if we exceed it, the backpack will break.
 
@@ -29,17 +29,25 @@ Translated with www.DeepL.com/Translator (free version)
 
     ![Describes the genetic cycle ](Docs/geneticalgorithm.png)
 
-### 3. Integrate with xUnit
+### 3. Quantum Computing
 
-* Installation of Jest using NPM
-    > `npm i --save-dev jest`
-* Test script, file will contain four tests to two different forms `test.js`
+#### The Qbit 
+* The Qubit is a linear combination of `[0, 1]`.  `Qubit.h`
 
-    ![Jest's Code](img/testt.png)
+    ![Qbit](Docs/qubit.jpg)
+    ![in C++](Docs/qbith.png)
 
-* Console report of the results:
+#### The Quantum Gate
+* A quantum gate, quantum logic gate or quantum logic gate is a basic quantum circuit that operates on a small number of qubits, It is similar to using `OR` || `AND` || `XOR` in classical computing. :
 
-    ![Reporte Jest](img/console.png)
+    ![Quantum Gate](Docs/quantumgate.png)
+    ![in C++](Docs/quangatecpp.png)
+
+#### Rotation Angle
+* When applying operations between Qubits, `alpha` and `beta` will be loaded, then the Qubits, like a sphere, will rotate and become more or less likely to be `1 or 0`.
+    
+    ![Get rotation angle](Docs/angulos.png)
+    ![in C++](Docs/rotationangleee.png)
 
 ### 4. Setup 
 
