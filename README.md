@@ -7,7 +7,7 @@ Translated with www.DeepL.com/Translator (free version)
 ## Pre - requeriments
 
 1. GCC Compiler
-2. input test data [profit, weight, sumWeight]
+2. input test data [`profit`, `weight`, `sumWeight`]
 
 ## KnapSack Problem
 
