@@ -71,7 +71,17 @@ Translated with www.DeepL.com/Translator (free version)
 
 ### 5. Results
 
+* We have a comparison between the `QuantumGenetic` vs. a `GA Genetic Algorithm`. `QuantumGenetic Wins!`
+    ![QGA Wins!](Docs/estimade.jpeg)
 
+* Testing : 10 individuals
+    ![QGA vs GA: 10!](Docs/indivi10.png)
+
+* Testing : 50 individuals
+    ![QGA vs GA: 50!](Docs/indivi50.png)
+
+* Testing : 100 individuals
+    ![QGA vs GA: 100!](Docs/indivi100.png)
 
 ### 6. Setup
 
