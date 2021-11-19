@@ -49,11 +49,35 @@ Translated with www.DeepL.com/Translator (free version)
     ![Get rotation angle](Docs/angulos.png)
     ![in C++](Docs/rotationangleee.png)
 
-### 4. Setup 
+#### Quantum Cromosome
+* When we translate a string of classical bits to Qbits, we must create a string of Qbits that must change dynamically, this will be evaluated in the algorithm, causing them to collapse. 
 
-* Clone Repository `git clone https://github.com/luismoroco/Selenium-Jest.git`.
+    ![Cromosome](Docs/cromosomeqbits.png)
+    ![in C++](Docs/cromosomecpp.png)
+
+### 4. Genetic Algorithm
+
+* We have a cyclical structure that will evaluate through the generations: 
+
+1. Initialize population
+2. we will use make to collapse the Qbit
+3. We will use repair || penalty
+4. We will take the best one 
+5. Reproduce the best one with the whole population 
+6. Repeat
+
+    ![Flow](Docs/flujomap.png)
+    ![in C++](Docs/FUjocpp.png)
+
+### 5. Results
+
+    
+
+### 6. Setup
+
+* Clone Repository `git clone https://github.com/luismoroco/KnapSack-NP-Optimizaci-n-Quantum-Computing.git`.
 * Enter the directory `cd <LOCAL REPOSITORY>`.
-* Install modules `npm install`.
-* Start testing `npm test`.
+* Excute main `g++ -o exe main.cpp`.
+* Start `./exe`.
 
 ### Happy Hacking!
