@@ -2,8 +2,6 @@
 
 In this program I will optimize the NP - KnapSack problem using genetic algorithms, but instead of setting it with bits [0 || 1], we will use Qbits, train individuals based on that and use quantum physics theory such as `Angles of rotation`, `Quantum gates`, `Superposition` and `collapse` of Qubits. The algorithm was able to optimize the problem obtaining effectiveness peaks in the first generations.
 
-Translated with www.DeepL.com/Translator (free version)
-
 ## Pre - requeriments
 
 1. GCC Compiler
