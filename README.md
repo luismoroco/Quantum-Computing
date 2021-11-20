@@ -53,7 +53,7 @@ Translated with www.DeepL.com/Translator (free version)
 * When we translate a string of classical `bits` to `Qbits`, we must create a string of Qbits that must `change dynamically`, this will be evaluated in the algorithm, causing them to `collapse`. 
 
     ![Cromosome](Docs/cromosomeqbits.png)
-    ![in C++](Docs/cromosomecpp.png)
+    ![in C++](Docs/cromoosomecpp.png)
 
 ### 4. Genetic Algorithm
 
